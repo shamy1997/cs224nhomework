@@ -1,4 +1,4 @@
-# cs224nhomework
+# cs224n-Homework
 ## Assignment 1
 - Create a co-occurence Martix from scratch
 - Use TruncatedSVD in sklearn to decompose a co-occurence Martix to a (len(distinct_word),2) Martix
